@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="startgame" width="640" height="1120" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="1_jpg" x="0" y="0" width="640" height="1120"/>
+</e:Skin>
